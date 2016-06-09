@@ -83,7 +83,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Hudson](http://hudson-ci.org/) - Continuous integration server still in active development.
 * [Java Modeling Language (JML)](http://www.eecs.ucf.edu/~leavens/JML/) - Behavioral interface specification language that can be used to specify the behavior of code modules. It combines the design by contract approach of Eiffel and the model-based specification approach of the Larch family of interface specification languages, with some elements of the refinement calculus. Used by several other verification tools.
 * [JavaCC](https://javacc.java.net/) - More specific and slightly easier to learn. Has syntactic lookahead.
-* [JavaServer Faces](https://javaserverfaces.java.net/) - Oracle's open-source implementation of the JSF standard, Mojarra.
+* [JavaServer Faces](https://javaserverfaces.java.net/) - Oracle's open-source implementation of the JSF standard,  Mojarra.
 * [JavaServer Pages](https://jsp.java.net/) - Common templating for websites with custom tag libraries.
 * [JUnit](http://junit.org/) - Common testing framework.
 * [Launch4j](http://launch4j.sourceforge.net/) - Wraps JARs in lightweight and native Windows executables.
@@ -147,7 +147,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 ## Command-line Argument Parsers
 
-*Libraries that make it easy to parse command line options, arguments, etc.*
+*Libraries that make it easy to parse command line options, arguments, etc..*
 
 * [args4j](http://args4j.kohsuke.org/) - Small library to parse command like arguments similar to javac.
 * [JCommander](http://jcommander.org/) - Command line arguments parsing framework with custom types and validation via implementing interfaces.
